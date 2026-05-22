@@ -1,0 +1,3 @@
+province,district,latitude,longitude,reported_incidents,historical_incident_frequency,poverty_level,unemployment_rate,crime_rate,population_density,health_service_access,urban_rural_class,prior_hotspot_status,education_attainment,neighboring_district_case_density,year,month_number,quarter,is_holiday_season,time_index,incident_growth,incident_growth_rate,incidents_per_density,socioeconomic_pressure_index,service_deprivation_index,crime_density_interaction,hotspot_persistence_index,neighbor_pressure_index
+Harare,Mbare,-17.8252,31.0335,420,35,55,45,60,3500,25,Urban,1,60,42,2026,5,2,0,77,2.8,8,120,53.33,75,2.1,35,42
+Bulawayo,Bulawayo Urban,-20.1325,28.6265,310,25.83,42,35,48,3000,55,Urban,1,85,31,2027,1,1,0,85,2.07,8.01,103.33,41.67,45,1.44,25.83,31
