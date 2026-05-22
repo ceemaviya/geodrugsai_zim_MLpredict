@@ -1,6 +1,8 @@
 # GeoDrugs AI Full Stack System with Maps and Reports
 
-Includes FastAPI backend, React frontend, login, dashboard, prediction using all variables, hotspot map, time series charts, reports, variables page and logout.
+Predict hotspot areas for drug abuse in selected provinces in Zimbabwe using ML.
+
+Includes FastAPI backend, React frontend, login, dashboard, prediction using trained model variables, hotspot map, time series charts, reports, variables page and logout.
 Also includes future hotspot forecasting using projected socio-economic factors such as unemployment rate, crime rate, poverty index, treatment access, school dropout and urban/rural setting.
 
 ## Backend
